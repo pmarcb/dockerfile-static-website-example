@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER pmborras@optigame.com
+MAINTAINER
 RUN apt update
 RUN DEBIAN_FRONTEND=noninteractive apt install -y nginx git 
 EXPOSE 80
