@@ -1,0 +1,1 @@
+# dockerfile-static-website-example
